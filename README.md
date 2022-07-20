@@ -2,7 +2,7 @@
 
 Este proyecto es un sitio web para el restaurante LOS PEPES
 
-Tiene varias paginas web incluido: index.html, contacto.html
+Tiene varias paginas web incluido: `index.html`, `contacto.html`
 
 ## Documentacion
 
@@ -16,3 +16,7 @@ Para añadir un bloque de codigo HTML, usemos el siguiente ejemplo:
 ```
 <html></html>
 ```
+## Autores
+Jose
+Julian
+Cuevita
